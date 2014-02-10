@@ -18,7 +18,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-12">
-          <h1 class="page-header">Grayscale</h1>
+          <h1 class="page-header">Evoluto Technology</h1>
           <ol class="breadcrumb">
             <li><a href="index.php">Start Bootstrap</a></li>
             <li><a href="all-templates.php">Templates</a></li>
